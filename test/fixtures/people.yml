@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+admin:
+  name: MyString
+  email: bla@bla.com
+  password: MyString
+  born_at: 1970-03-22
+  admin: true
+  points: 0
+
+author:
+  name: MyString
+  email: ble@bla.com
+  password: MyString
+  born_at: 1970-03-22
+  admin: false
+  points: 10
